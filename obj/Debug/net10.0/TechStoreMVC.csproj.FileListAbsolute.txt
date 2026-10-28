@@ -15,6 +15,7 @@ C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd 
 C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\TechStoreMVC\obj\Debug\net10.0\TechStoreMVC.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\TechStoreMVC\obj\Debug\net10.0\TechStoreMVC.RazorAssemblyInfo.cache
 C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\TechStoreMVC\obj\Debug\net10.0\TechStoreMVC.RazorAssemblyInfo.cs
+C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\TechStoreMVC\obj\Debug\net10.0\TechStoreMVC.sourcelink.json
 C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\TechStoreMVC\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\TechStoreMVC\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\TechStoreMVC\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
@@ -95,4 +96,3 @@ C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd 
 C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\TechStoreMVC\obj\Debug\net10.0\TechStoreMVC.pdb
 C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\TechStoreMVC\obj\Debug\net10.0\TechStoreMVC.genruntimeconfig.cache
 C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\TechStoreMVC\obj\Debug\net10.0\ref\TechStoreMVC.dll
-C:\Users\SUPORTE\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\BackEnd Bariri\MVC\TechStoreMVC\obj\Debug\net10.0\TechStoreMVC.sourcelink.json
